@@ -1,3 +1,4 @@
 # hello-world
 balderdash1
-The initital project forced on everyone and anyone by the uncaring universe/sysadmins.
+The initial project forced on everyone and anyone by the uncaring universe/sysadmins.
+Misspellings are all the fault of powers stronger than I.
